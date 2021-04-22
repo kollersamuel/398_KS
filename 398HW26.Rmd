@@ -21,3 +21,4 @@ hist( Y)
 
 ![a](Gauss.jpg)
 
+Please add caption.
