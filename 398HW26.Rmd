@@ -1,0 +1,18 @@
+---
+title: "398HW26"
+author: "Samuel Koller"
+date: "4/22/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+`C:\Users\samue\Desktop\398\Repositories\398_KS`
+
+```{r}
+# sample of size 100
+Y<- rnorm( 100)
+hist( Y)
+```
